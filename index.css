@@ -1,0 +1,16 @@
+#progress{
+    background-color: red;
+    height: 6px;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+
+}
+h4{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+}
